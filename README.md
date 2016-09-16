@@ -8,7 +8,7 @@ Use Media Libary to search YouTube, Twitter, Instagram, and Flickr, then insert 
 
 Repo: https://github.com/hearvox/media-explorer-plus
 
-Info of Flickr API Key: http://hearingvoices.com/tools/mexp-plus 
+Info (Flickr API Key): http://hearingvoices.com/tools/mexp-plus 
 
 ## Plugin: Postscript
 Add scripts and styles to individual WP posts.
