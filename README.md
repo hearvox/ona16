@@ -3,10 +3,6 @@
 
 https://github.com/hearvox/ona16
 
-Barrett Golding (<a href="https://twitter.com/hearvox">@hearvox</a>) <bg@hearingvoices.com>
-
-RJI Storytelling Tools: https://www.rjionline.org/storytelling-tools
-
 ## Plugin: Media Explorer Plus
 Use Media Libary to search YouTube, Twitter, Instagram, and Flickr, then insert selections into posts.
 
@@ -27,3 +23,9 @@ Tech: https://github.com/hearvox/postscript#dev-notes
 Save outdated posts for archives but not public viewing.
 
 Repo: https://github.com/hearvox/media-explorer-plus
+
+## BG
+
+Barrett Golding (<a href="https://twitter.com/hearvox">@hearvox</a>) <bg@hearingvoices.com>
+
+RJI Storytelling Tools: https://www.rjionline.org/storytelling-tools
