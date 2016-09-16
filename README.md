@@ -1,7 +1,9 @@
 
 # ONA16: WordPress for Newsrooms (RJI talk)
 
-Barrett Golding @hearvox bg @hearvoices.com
+Barrett Golding <a href="https://twitter.com/hearvox">@hearvox</a> <bg@hearingvoices.com>
+
+RJI Storytelling Tools: https://www.rjionline.org/storytelling-tools
 
 ## Plugin: Media Explorer Plus
 Use Media Libary to search YouTube, Twitter, Instagram, and Flickr, then insert selections into posts.
