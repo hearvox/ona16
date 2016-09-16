@@ -1,6 +1,8 @@
 
 # ONA16: WordPress for Newsrooms (RJI talk)
 
+https://github.com/hearvox/ona16
+
 Barrett Golding (<a href="https://twitter.com/hearvox">@hearvox</a>) <bg@hearingvoices.com>
 
 RJI Storytelling Tools: https://www.rjionline.org/storytelling-tools
